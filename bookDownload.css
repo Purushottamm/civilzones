@@ -1,0 +1,23 @@
+.titleBar{
+    background-color: #000033;
+    position: relative;
+    margin: 0 0 30px 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    padding: 50px 0;
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    text-align: center;
+    color:white;
+}
+#icon{
+  height: 40px;
+}
+
+body{
+	background-image: url("bookBackground.jpg");
+}

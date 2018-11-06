@@ -1,0 +1,89 @@
+#content {
+	text-align: center;
+	padding-top: 20%;
+}
+.bg1{
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+.bg2{
+	background-color:#660066;
+	color:white;
+	text-align: center;
+
+}
+.bg3{
+	
+	text-align: center;
+}
+.bg4{
+	background-color:#18aacf;
+	padding-top: 2%;
+}
+h1{
+	padding-top:5%;
+	font-family: 'Baloo Tammudu', cursive;
+	font-size: 60px
+}
+p{
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	color:white;
+}
+#second{
+	color:black;
+}
+#first{
+	color:white;
+}
+#imgsize{
+	size:20px;
+}
+#navbars{
+	padding-left: 70px;
+}
+#icon{
+	height: 40px;
+}
+.logoNav{
+	height: 150px;
+	width:150px;
+	border-radius: 15px;
+	
+}
+.last{
+	height: 150px;
+	width: 150px;
+	border-radius: 15px;
+}
+.text2Set{
+	padding-top:5%;
+}
+h2{
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	padding-bottom: 5%;
+}
+.author{
+	border-radius:50%;
+	height: 150px;
+	width: 150px;
+}
+.secondSet{
+	padding-bottom: 5%;
+}
+h4{
+	padding-top: 3%;
+	padding-bottom: 1%;
+	color:#18aacf;
+}
+h6{
+	color:white;
+	padding-bottom: 8px;
+}
+.self{
+	color:black;
+	padding-top: 10px;
+}
